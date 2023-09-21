@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a3ed35a-eed5-4344-bd41-e5e3e044b39d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguimiento.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Centralejercicio3/Atencion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Centralejercicio3/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfazejercicio3/InterfazAtencion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serviciosejercicio3/SerializerAtencion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serviciosejercicio3/ServicioImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UniversidadAtencionejercicio3/DTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/dto/UsuariosDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/interfaces/IUsuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/servicios/ObjSerializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1/servicios/UsuarioServicioImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/dto/HotelDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/interfaces/IHotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/servicios/HotelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/servicios/ObjSerializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/dto/ShopCarDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/interfaces/IShopCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio5/service/CartServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VgeEREmR98QjxTffd1nNMnGirI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3ed35a-eed5-4344-bd41-e5e3e044b39d" name="Changes" comment="" />
+      <created>1695262041971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695262041971</updated>
+    </task>
+    <servers />
+  </component>
+</project>
